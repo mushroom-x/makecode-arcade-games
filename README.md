@@ -47,6 +47,8 @@ Email: xingshunkai@qq.com
 
 ### 赛车
 
+[赛车小游戏效果视频](https://www.bilibili.com/video/av82562052/)
+
 ![](./image/赛车游戏.png)
 
 小花做的基于Arcade的赛车小游戏, 相关知识点: 地图, 敌人, 智能跟踪, 弹药. 
