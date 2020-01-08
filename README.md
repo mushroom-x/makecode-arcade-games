@@ -40,3 +40,16 @@ QQ: 244561792
 微信: xingshunkai
 
 Email: xingshunkai@qq.com
+
+
+
+## 其他学习案例
+
+### 赛车
+
+![](./image/赛车游戏.png)
+
+小花做的基于Arcade的赛车小游戏, 相关知识点: 地图, 敌人, 智能跟踪, 弹药. 
+
+[代码卡片分享链接](https://makecode.com/_XhKPKiKYVRyX)
+
