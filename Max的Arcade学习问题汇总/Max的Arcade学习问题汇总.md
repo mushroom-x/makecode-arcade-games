@@ -18,7 +18,7 @@
 - 随机产生的Sprite Bogeys，如果没有击中Sprite Player，也会飞出左边的边界，但是Bogeys没有被Destroied；
 - 以上两项Sprites累计占用内存，造成系统卡顿。
 
-<img src="/Users/boyang/Documents/GitHub/makecode-arcade-jungle-adventure/Max的Arcade学习问题汇总/Images/image-20200111132548799.png" alt="image-20200111132548799" style="zoom: 50%;" />
+<img src="Images/image-20200111132548799.png" alt="image-20200111132548799" style="zoom: 50%;" />
 
 
 
@@ -29,6 +29,6 @@
 - 增加边界设置
 - 增加飞出边界的Sprites的摧毁处理；
 
-![image-20200111133429306](/Users/boyang/Documents/GitHub/makecode-arcade-jungle-adventure/Max的Arcade学习问题汇总/Images/image-20200111133429306.png)
+![image-20200111133429306](Images/image-20200111133429306.png)
 
-<img src="/Users/boyang/Documents/GitHub/makecode-arcade-jungle-adventure/Max的Arcade学习问题汇总/Images/image-20200111133459441.png" alt="image-20200111133459441" style="zoom: 50%;" />
+<img src="Images/image-20200111133459441.png" alt="image-20200111133459441" style="zoom: 50%;" />
