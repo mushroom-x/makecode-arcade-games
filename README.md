@@ -10,7 +10,7 @@
 
 [微软MakeCode Arcade图形化编程-游戏制作效果视频](https://www.bilibili.com/video/av82551127)
 
-![](./image/推箱子-截图.png)
+![](image/Arcade编程积木.png)
 
 
 
